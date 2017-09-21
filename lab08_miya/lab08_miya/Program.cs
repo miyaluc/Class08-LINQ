@@ -10,6 +10,7 @@ namespace lab08_miya
         static void Main(string[] args)
         {
             string data;
+            //grabbing data from JSON, storing it in a object
             using (StreamReader sr = File.OpenText("data.json"))
             {
                 data = File.ReadAllLines("data.json")[0]; 
@@ -19,11 +20,11 @@ namespace lab08_miya
 
             RootObject AllAccessPass = JsonConvert.DeserializeObject<RootObject>(data);
 
-
             //Properties neighborhood = new Properties();
         }
         
     }
+    //JSON classes start here and end on line 99
     public class Geometry
     {
         public string type
@@ -96,3 +97,12 @@ namespace lab08_miya
         }
     }
 }
+
+
+//#### Questions
+//Each query builds off of the next.
+//1. Output all of the neighborhoods in this data list
+//2. Filter out all the neighborhoods that do not have any names
+//3. Remove the Duplicates
+//4. Rewrite the queries from above, and consolidate all into one single query.
+//5. Rewrite at least one of these questions only using a LINQ query(without lambda statement)
