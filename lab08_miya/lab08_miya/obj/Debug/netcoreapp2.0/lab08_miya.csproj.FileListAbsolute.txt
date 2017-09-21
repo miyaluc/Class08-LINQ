@@ -1,0 +1,11 @@
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\bin\Debug\netcoreapp2.0\lab08_miya.deps.json
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\bin\Debug\netcoreapp2.0\lab08_miya.runtimeconfig.json
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\bin\Debug\netcoreapp2.0\lab08_miya.runtimeconfig.dev.json
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\bin\Debug\netcoreapp2.0\lab08_miya.dll
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.AssemblyInfoInputs.cache
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.AssemblyInfo.cs
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\bin\Debug\netcoreapp2.0\lab08_miya.pdb
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.dll
+C:\Users\shami\Source\Repos\Class08-LINQ\lab08_miya\lab08_miya\obj\Debug\netcoreapp2.0\lab08_miya.pdb
